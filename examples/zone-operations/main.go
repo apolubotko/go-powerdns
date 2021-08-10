@@ -3,10 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/joeig/go-powerdns/v2"
 	"log"
 	"math/rand"
 	"time"
+
+	"github.com/apolubotko/go-powerdns/v2"
 )
 
 func main() {
